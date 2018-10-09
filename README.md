@@ -4,4 +4,6 @@ script check service status. After check service status, if service not running 
   - nginx
   - php
   - redis
-https://dlacuras.slack.com/services/BA88VNRFB?added=1
+  
+  
+(https://dlacuras.slack.com/services/BA88VNRFB?added=1)
