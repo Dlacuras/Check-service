@@ -6,4 +6,4 @@ script check service status. After check service status, if service not running 
   - redis
   
   
-(https://dlacuras.slack.com/services/BA88VNRFB?added=1)
+(https://api.slack.com/incoming-webhooks)
